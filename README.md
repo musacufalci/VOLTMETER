@@ -1,4 +1,4 @@
-# voltmeter
+# Voltmeter
 
 - HD44780 writes "musa" and analog value to the LCD screen with 8-bit data.
 - Microcontroller: PIC16F88
