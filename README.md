@@ -10,4 +10,4 @@ Voltmeter is the instrument used to measure the potential difference (voltage) b
 - Microcontroller: PIC series
 - Hitachi HD44780 LCD controller
 
-Design by https://www.linkedin.com/in/musacufalci/
+Design by: https://www.linkedin.com/in/musacufalci/
